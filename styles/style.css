@@ -209,3 +209,18 @@ footer {
   height: 100%;
   display: block;
 }
+
+
+/***************************reponsiv**********************************************/
+
+
+
+@media screen and (max-width: 1000px) {
+  .gallery {
+    flex-direction: column;
+  }
+  .projectweb h1{
+    font-size: 100%;
+  }
+
+}
