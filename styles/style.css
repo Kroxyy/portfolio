@@ -248,15 +248,15 @@ footer {
     flex-direction: column;
   }
   .projectweb{
-    margin: 10%;
+    margin: 5%;
   }
   .projectweb h1{
     font-size: 100%;
   }
   .projectweb p{
-    width: 100%;
     text-align: justify;
     margin-top: 5%;
+    hyphens: auto;
   }
   .projectweb img{
     width: 100%;
