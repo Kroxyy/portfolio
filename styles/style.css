@@ -50,6 +50,8 @@ section {
 
 p{
   text-align: justify;
+  hyphens: auto;
+  text-align: center;
 }
 
 #about {
