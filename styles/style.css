@@ -203,6 +203,7 @@ footer {
     background-color: #fff;
     border-radius: 10px;
     justify-items: center;
+  margin: auto;
 }
 
 .affiches img{
